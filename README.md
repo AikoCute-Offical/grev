@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  	<a href="https://hanadigital.github.io/grev/"><img width="200" src="https://user-images.githubusercontent.com/41040912/116804290-ba74e380-ab2e-11eb-9945-57f16778b3bf.png"></a>
+  	<a href="https://AikoCute-Offical.github.io/grev/"><img width="200" src="https://user-images.githubusercontent.com/41040912/116804290-ba74e380-ab2e-11eb-9945-57f16778b3bf.png"></a>
 	<br />
 	Web app to view github's release statistics.
 </p>
@@ -21,7 +21,7 @@
 
 ## How to use
 
--   Goto https://hanadigital.github.io/grev/.
+-   Goto https://AikoCute-Offical.github.io/grev/.
 -   Search for repositories or owners in any of the following formats
     -   `https://github.com/username/repo`
     -   `github.com/username/repo`
@@ -35,7 +35,7 @@
 ## License
 
 ```
-Copyright 2020 HanaDigital
+Copyright 2020 AikoCute-Offical
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
